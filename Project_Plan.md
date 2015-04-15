@@ -34,7 +34,7 @@ And both we are interested in particularly the front end part of the Web-develop
 which can make interaction with users and finding the effective way to approach to user behavior. 
 
 <h1>7. Our project plan</h1>
- >Preparation (From mid-April to June) :
+<t>Preparation (From mid-April to June) :
 	>> Learning more about user interface models and philosophy (Materials from coach Esko) 
         >> Learning hoodie with reading documents and using command lines.
         >> Learning programming language concepts and Javascript and more about HTML,CSS 
