@@ -1,26 +1,26 @@
 <h1>Introduction of “Hoodie”</h1> 
     Hoodie is framework for frontend web applications that abstracts away the backend.  
     Simply, Hoodie is a noBackend technology! 
-    Hoodie gives your frontend code superpowers/Dreamcode, by allowing   users to do things that only a backend can do.
-    Hoodie’s vision and future goal is to be accessible for designers and people with few coding skills 
-    because Hoodie think this matters.
+    Hoodie gives your frontend code superpowers/Dreamcode, 
+    by allowing users to do things that only a backend can do.
+    Hoodie’s vision and future goal is to be accessible for designers and
+    people with few coding skills because Hoodie think this matters.
     Hoodie is written entirely in JavaScript.
 
-2. Mentors  
+<h1>2. Mentors</h1>  
  * Mentors : Jan Lehnardt
 
-3. Coaches 
+<h1>3. Coaches</h1> 
   *Coahes : Esko Luontola, Tobias Bühlmann, Fernando Arriaga
-    We met our coaches in twitter, by email (Helsinki Rails girls team, HelsinkiJS) 
-    We highly appreciate their kindness and supports.
-    So far we communicate with coaches by Twitter, email and Facebook.  
-
-   To communicate with our coaches, we will create common group pages.
+    So far we communicated with coaches by Twitter, email and Facebook.  
+    To communicate with our coaches, we will create common group pages.
  
-4. Related links with our project 
-*Project issue link : https://github.com/rails-girls-summer-of-code/projects/issues/19
-*
-*
+<h1>4. Related links with our project</h> 
+<ul>
+<li>*Project issue link : https://github.com/rails-girls-summer-of-code/projects/issues/19</li>
+<li>*Project repository : In this Github Organization</li>
+<li>*Project Blog: http://moimoigirls.blogspot.fi/</li>
+</ul>
 
 
 1. The goal of our project
