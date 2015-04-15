@@ -15,7 +15,7 @@
     So far we communicated with coaches by Twitter, email and Facebook.  
     To communicate with our coaches, we will create common group pages.
  
-<h1>4. Related links with our project</h> 
+<h1>4. Related links with our project</h1> 
 <ul>
 <li>*Project issue link : https://github.com/rails-girls-summer-of-code/projects/issues/19</li>
 <li>*Project repository : In this Github Organization</li>
@@ -23,7 +23,7 @@
 </ul>
 
 
-1. The goal of our project
+<h1>5. The goal of our project</h1>
 > Creating a downloadable web app for Mac (and later Linux and Windows) that manages Hoodie instead of writing command lines 
 > Contributing our project to Open sources in GitHub
 
