@@ -24,13 +24,16 @@
 
 
 <h1>5. The goal of our project</h1>
-> Creating a downloadable web app for Mac (and later Linux and Windows) that manages Hoodie instead of writing command lines 
+> Creating a downloadable web app for Mac (and later Linux and Windows)
+  that manages Hoodie instead of writing command lines 
 > Contributing our project to Open sources in GitHub
 
-2. Why we choose these issues from the project?
-We like to create UI prototype to bring most enjoyable and convenient experiences to users. And both we are interested in particularly the front end part of the Web-development which can make interaction with users and finding the effective way to approach to user behavior. 
+<h1>6.Why we choose these issues from the project?</h1>
+We like to create UI prototype to bring most enjoyable and convenient experiences to users.
+And both we are interested in particularly the front end part of the Web-development
+which can make interaction with users and finding the effective way to approach to user behavior. 
 
-3. Our project plan
+<h1>7. Our project plan</h1>
  >Preparation (From mid-April to June) :
 	>> Learning more about user interface models and philosophy (Materials from coach Esko) 
         >> Learning hoodie with reading documents and using command lines.
