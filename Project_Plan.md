@@ -17,7 +17,7 @@
     Hoodie is written entirely in JavaScript.</p>
 
 <h1>2. Mentors</h1>  
-   <p><strong>* Mentors</strong> : Jan Lehnardt, Gregor </p>
+   <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt, Gregor </p>
 
 <h1>3. Coaches</h1> 
    <p><strong>*Coahes</strong> : Esko Luontola, Tobias Bühlmann, Fernando Arriaga
@@ -26,17 +26,17 @@
  
 <h1>4. Related links with our project</h1> 
 <ul>
-<li>*Project issue link : https://github.com/rails-girls-summer-of-code/projects/issues/19</li>
-<li>*Project repository : In this Github Organization</li>
-<li>*Project Blog: http://moimoigirls.blogspot.fi/</li>
+<li>Project issue link : https://github.com/rails-girls-summer-of-code/projects/issues/19</li>
+<li>Project repository : In this Github Organization</li>
+<li>Project Blog: http://moimoigirls.blogspot.fi/</li>
 </ul>
 
 
 <h1>5. The goal of our project</h1>
 <ul>
-<li> *Creating a downloadable web app for Mac (and later Linux and Windows) </li>
+<li>Creating a downloadable web app for Mac (and later Linux and Windows) </li>
       that manages Hoodie instead of writing command lines 
-<li> *Contributing our project to Open sources in GitHub </li>
+<li>Contributing our project to Open sources in GitHub </li>
 </ul>
 
 <h1>6.Why we choose these issues from the project?</h1>
@@ -57,8 +57,8 @@ which can make interaction with users and finding the effective way to approach 
    <tr><td><h3>"3 Steps""(From July to September)</h3></td></tr>
    <tr><td>Step1: Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation 
 	          and allows to create new apps, manage, existing apps and eventually deploy a live app.</td></tr>
-        <tr><td> *The sub-goal of step 1: Designing an easy approachable and user friendly interface
-                 * How to approach regarding our skills:
+        <tr><td> <ul><li>The sub-goal of step 1: Designing an easy approachable and user friendly interface</li>
+                <li> * How to approach regarding our skills:</li></ul>
                    ** Our skills :  Photoshop, illustrator, HTML, CSS, (+Javascript after the preparation period) 
                    ** Brainstorming our idea about UI -> Choosing our best ideas -> 
 				    Focusing on designing the layout of UI -> Implementing technical parts into the design ->
