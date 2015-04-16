@@ -1,8 +1,9 @@
-<h3>Hello, Welcome to our MoiMoiGirls GitHub Oranization.</h3>
-<h5>We made this organization for sharing our ideas, building up Hoodie UI app 
-    and improving our projects with nice opinions and feedbacks from wonderful peoples. </h5>
+<h1>Hello, Welcome to our MoiMoiGirls GitHub Oranization.</h1>
+<p>We made this organization for sharing our ideas, building up Hoodie UI app 
+    and improving our projects with nice opinions and feedbacks from wonderful peoples. </p>
 
 <h4>Now, we will introduce What is Hoodie, what is our project, our mentors and coaches and our project plans.</h4>
+
 
 <h1>Introduction of “Hoodie”</h1> 
    <p> Hoodie is framework for frontend web applications that abstracts away the backend.  
