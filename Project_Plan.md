@@ -9,7 +9,7 @@
    <p> Hoodie is framework for frontend web applications that abstracts away the backend.  
     Simply, Hoodie is a noBackend technology! 
 	
-    Hoodie gives your frontend code superpowers/Dreamcode, 
+    Hoodie gives your frontend code superpowers or Dreamcode, 
     by allowing users to do things that only a backend can do.
     
     Hoodie’s vision and future goal is to be accessible for designers and
@@ -57,15 +57,15 @@ which can make interaction with users and finding the effective way to approach 
    <tr><td><h3>"3 Steps""(From July to September)</h3></td></tr>
    <tr><td>Step1: Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation<br> 
 	          and allows to create new apps, manage, existing apps and eventually deploy a live app.</td></tr>
-        <tr><td> <ul><li>The sub-goal of step 1: Designing an easy approachable and user friendly interface</li>
-                <li> * How to approach regarding our skills:</li></ul>
+        <tr><td>The sub-goal of step 1: Designing an easy approachable and user friendly interface</td></tr>
+        <tr><td>* How to approach regarding our skills:</li></ul>
                    ** Our skills :  Photoshop, illustrator, HTML, CSS, (+Javascript after the preparation period)<br> 
                    ** Brainstorming our idea about UI -> Choosing our best ideas -> <br>
 				    Focusing on designing the layout of UI -> Implementing technical parts into the design -><br>
 				    Testing our UI design and technical parts to get feedback (Upload our UI prototype <br>
 				    in the Hoodie Github and show our project to mentors and coaches, other  users)</td></tr></table>  
  <table>
-    <tr><td> Step2: 1) Figuring out what environments tool we can use, considering node-webkit, atom-shell so on. 
+    <tr><td> Step2: 1) Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.<br>
                     2) Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</td></tr>
      <tr><td> * How to approach : <br>
                   Figuring out which environments tool is best for the packaging up Hoodie -> <br>
