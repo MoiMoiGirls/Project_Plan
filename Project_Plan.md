@@ -1,4 +1,4 @@
-<h1>Hello, Welcome to our MoiMoiGirls Oranization.</h1>
+<h1>Hello, Welcome to our MoiMoiGirls' Oranization.</h1>
 <p> We are HyeSoo and Ly. <br>We made this organization for sharing our ideas, building up Hoodie UI app 
     and improving our projects with nice opinions and feedbacks from wonderful peoples. (+Plus Happy coding) </p>
 
@@ -47,9 +47,9 @@ which can make interaction with users and finding the effective way to approach 
 <h1>7. Our project plan</h1>
 <table>
     <tr><td> <h3>Preparation (From mid-April to June) </h3></td></tr>
-    <tr><td> 1)Learning more about user interface models and philosophy (Materials from coach Esko) </td></tr>
-    <tr><td> 2)Learning hoodie with reading documents and using command lines.</td></tr>
-    <tr><td> 3)Learning programming language concepts and Javascript and more about HTML,CSS<br>
+    <tr><td> 1) Learning more about user interface models and philosophy (Materials from coach Esko) </td></tr>
+    <tr><td> 2) Learning hoodie with reading documents and using command lines.</td></tr>
+    <tr><td> 3) Learning programming language concepts and Javascript and more about HTML,CSS<br>
              (Online courses from CodeAcademy, code school, Coursera(from coach Fernando)</td></tr>
 </table>
 
@@ -67,7 +67,7 @@ which can make interaction with users and finding the effective way to approach 
 		       <li> Testing our UI design and technical parts to get feedback (Upload our UI prototype
 				    in the Hoodie Github and show our project to mentors and coaches, other  users)</li></ul></td></tr></table>  
  <table>
-    <tr><td>"Step2"<ul><li> Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.</li>
+    <tr><td>"Step2":<ul><li> Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.</li>
                     <li> Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</li></ul></td></tr>
      <tr><td> <How to approach> <br>
               <ol><li>Figuring out which environments tool is best for the packaging up Hoodie</li>
@@ -76,7 +76,7 @@ which can make interaction with users and finding the effective way to approach 
 	          <li>Packaging up Hoodie with Node-webkit</li></td></tr>
  </table>				  
  <table>
-    <tr><td> "Step3" Making the front-end part of Hoodie run with PouchDB Server instead of CouchDB.</td></tr>
+    <tr><td> "Step3": Making the front-end part of Hoodie run with PouchDB Server instead of CouchDB.</td></tr>
            <tr><td><ul><li> The sub-goal of step 3: Connecting the features of UI to Pouch DB to make Hoodie run with PouchDB</li>
                   <li> How to approach </li>
                       First, we will focus on connecting ‘creating new apps button (or link)’ to Pouch DB.<br>
