@@ -1,5 +1,5 @@
 <h1>Hello, Welcome to our MoiMoiGirls Oranization.</h1>
-<p> We are HyeSoo and Ly. We made this organization for sharing our ideas, building up Hoodie UI app 
+<p> We are HyeSoo and Ly. <br>We made this organization for sharing our ideas, building up Hoodie UI app 
     and improving our projects with nice opinions and feedbacks from wonderful peoples. (+Plus Happy coding) </p>
 
 <h4>Now, we will introduce What is Hoodie, what is our project, our mentors and coaches and our project plans.</h4>
@@ -68,7 +68,7 @@ which can make interaction with users and finding the effective way to approach 
 				    in the Hoodie Github and show our project to mentors and coaches, other  users)</li></ul></td></tr></table>  
  <table>
     <tr><td> Step2: <ul><li> Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.</li>
-                    <li> Packaging up Hoodie with Node-webkit, so it can be launched from within the app with</li></ul> Node-webkit.</td></tr>
+                    <li> Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</li></ul></td></tr>
      <tr><td> * How to approach : <br>
               <ol><li>Figuring out which environments tool is best for the packaging up Hoodie</li>
 		  <li>Asking mentors and coaches about our choices</li>
