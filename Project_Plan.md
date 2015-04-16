@@ -40,8 +40,8 @@
 </ul>
 
 <h1>6.Why we choose these issues from the project?</h1>
-<p>We like to create UI prototype to bring most enjoyable and convenient experiences to users.
-And both we are interested in particularly the front end part of the Web-development
+<p>We like to create UI prototype to bring most enjoyable and convenient experiences to users.<br>
+And both we are interested in particularly the front end part of the Web-development<br>
 which can make interaction with users and finding the effective way to approach to user behavior.</p> 
 
 <h1>7. Our project plan</h1>
@@ -49,36 +49,36 @@ which can make interaction with users and finding the effective way to approach 
     <tr><td> <h3>Preparation (From mid-April to June) </h3></td></tr>
 	<tr><td> Learning more about user interface models and philosophy (Materials from coach Esko) </td></tr>
     <tr><td> Learning hoodie with reading documents and using command lines.</td></tr>
-    <tr><td> Learning programming language concepts and Javascript and more about HTML,CSS 
+    <tr><td> Learning programming language concepts and Javascript and more about HTML,CSS<br>
              (Online courses from CodeAcademy, code school, Coursera(from coach Fernando)</td></tr>
 </table>
 
 <table>
    <tr><td><h3>"3 Steps""(From July to September)</h3></td></tr>
-   <tr><td>Step1: Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation 
+   <tr><td>Step1: Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation<br> 
 	          and allows to create new apps, manage, existing apps and eventually deploy a live app.</td></tr>
         <tr><td> <ul><li>The sub-goal of step 1: Designing an easy approachable and user friendly interface</li>
                 <li> * How to approach regarding our skills:</li></ul>
-                   ** Our skills :  Photoshop, illustrator, HTML, CSS, (+Javascript after the preparation period) 
-                   ** Brainstorming our idea about UI -> Choosing our best ideas -> 
-				    Focusing on designing the layout of UI -> Implementing technical parts into the design ->
-					Testing our UI design and technical parts to get feedback (Upload our UI prototype 
-					in the Hoodie Github and show our project to mentors and coaches, other  users)</td></tr></table>  
+                   ** Our skills :  Photoshop, illustrator, HTML, CSS, (+Javascript after the preparation period)<br> 
+                   ** Brainstorming our idea about UI -> Choosing our best ideas -> <br>
+				    Focusing on designing the layout of UI -> Implementing technical parts into the design -><br>
+				    Testing our UI design and technical parts to get feedback (Upload our UI prototype <br>
+				    in the Hoodie Github and show our project to mentors and coaches, other  users)</td></tr></table>  
  <table>
     <tr><td> Step2: 1) Figuring out what environments tool we can use, considering node-webkit, atom-shell so on. 
                     2) Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</td></tr>
-     <tr><td> * How to approach : 
-                  Figuring out which environments tool is best for the packaging up Hoodie -> 
-				  Asking mentors and coaches about our choice  -> Getting to know and 
-				  how to use most suitable environment tool (such as ‘Node-webkit’ etc)
+     <tr><td> * How to approach : <br>
+                  Figuring out which environments tool is best for the packaging up Hoodie -> <br>
+				  Asking mentors and coaches about our choice  -> Getting to know and <br>
+				  how to use most suitable environment tool (such as ‘Node-webkit’ etc)<br>
 				  -> Packaging up Hoodie with Node-webkit </td></tr>
  </table>				  
  <table>
     <tr><td> Step3:  Making the front-end part of Hoodie run with PouchDB Server instead of CouchDB.</td></tr>
-           <tr><td>* The sub-goal of step 3: Connecting the features of UI to Pouch DB to make Hoodie run with PouchDB
-                   * How to approach : 
-                      First, we will focus on connecting ‘creating new apps button (or link)’ to Pouch DB. 
-                      After that, we will move on the connecting ‘managing existing apps button (or link)’ 
+           <tr><td><ul><li>* The sub-goal of step 3: Connecting the features of UI to Pouch DB to make Hoodie run with PouchDB</li>
+                  <li>* How to approach : </li>
+                      First, we will focus on connecting ‘creating new apps button (or link)’ to Pouch DB.<br>
+                      After that, we will move on the connecting ‘managing existing apps button (or link)’ <br>
                       and eventually ‘deploying a live app button (or link)’ to Pouch DB.</td></tr>
  </table>
 
