@@ -1,3 +1,9 @@
+<h3>Hello, Welcome to our MoiMoiGirls GitHub Oranization.</h3>
+<h5>We made this organization for sharing our ideas, building up Hoodie UI app 
+    and improving our projects with nice opinions and feedbacks from wonderful peoples. </h5>
+
+<h4>Now, we will introduce What is Hoodie, what is our project, our mentors and coaches and our project plans.</h4>
+
 <h1>Introduction of “Hoodie”</h1> 
    <p> Hoodie is framework for frontend web applications that abstracts away the backend.  
     Simply, Hoodie is a noBackend technology! 
@@ -5,12 +11,12 @@
     Hoodie gives your frontend code superpowers/Dreamcode, 
     by allowing users to do things that only a backend can do.
     
-   Hoodie’s vision and future goal is to be accessible for designers and
+    Hoodie’s vision and future goal is to be accessible for designers and
     people with few coding skills because Hoodie think this matters.
     Hoodie is written entirely in JavaScript.</p>
 
 <h1>2. Mentors</h1>  
-   <p><strong>* Mentors</strong> : Jan Lehnardt,Gregor </p>
+   <p><strong>* Mentors</strong> : Jan Lehnardt, Gregor </p>
 
 <h1>3. Coaches</h1> 
    <p><strong>*Coahes</strong> : Esko Luontola, Tobias Bühlmann, Fernando Arriaga
@@ -42,21 +48,21 @@ which can make interaction with users and finding the effective way to approach 
     <tr><td> <h3>Preparation (From mid-April to June) </h3></td></tr>
 	<tr><td> Learning more about user interface models and philosophy (Materials from coach Esko) </td></tr>
     <tr><td> Learning hoodie with reading documents and using command lines.</td></tr>
-    <tr><td>  Learning programming language concepts and Javascript and more about HTML,CSS 
+    <tr><td> Learning programming language concepts and Javascript and more about HTML,CSS 
              (Online courses from CodeAcademy, code school, Coursera(from coach Fernando)</td></tr>
-<table>
+</table>
 
 <table>
    <tr><td><h3>"3 Steps""(From July to September)</h3></td></tr>
-   <tr><td>Step1: Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation </td></tr>
-	          and allows to create new apps, manage, existing apps and eventually deploy a live app.
+   <tr><td>Step1: Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation 
+	          and allows to create new apps, manage, existing apps and eventually deploy a live app.</td></tr>
         <tr><td> *The sub-goal of step 1: Designing an easy approachable and user friendly interface
                  * How to approach regarding our skills:
                    ** Our skills :  Photoshop, illustrator, HTML, CSS, (+Javascript after the preparation period) 
                    ** Brainstorming our idea about UI -> Choosing our best ideas -> 
 				    Focusing on designing the layout of UI -> Implementing technical parts into the design ->
 					Testing our UI design and technical parts to get feedback (Upload our UI prototype 
-					in the Hoodie Github and show our project to mentors and coaches, other users)</td></tr></table>  
+					in the Hoodie Github and show our project to mentors and coaches, other  users)</td></tr></table>  
  <table>
     <td><tr> Step2: 1) Figuring out what environments tool we can use, considering node-webkit, atom-shell so on. </td></tr>
                     2) Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.
@@ -76,7 +82,7 @@ which can make interaction with users and finding the effective way to approach 
  </table>
 
 <h1>8. Workplace </h1>
-<p>We are planning to work on our project at our home, in coaches' office, university/public libraries
- and outside under the beautiful sunshine in Finland.</p>   
+<p>We are planning to work on our project at our home, in coaches' office, in university/public libraries
+ in beautiful beaches and misterious forests under the beautiful sunshine in Finland.</p>   
  
 <h2> MoiMoi Girls, We are ready to Go!! :D </h2>
