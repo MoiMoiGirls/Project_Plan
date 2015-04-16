@@ -69,7 +69,7 @@ which can make interaction with users and finding the effective way to approach 
  <table>
     <tr><td>"Step2":<ul><li> Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.</li>
                     <li> Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</li></ul></td></tr>
-     <tr><td> <How to approach> <br>
+     <tr><td>* How to approach<br>
               <ol><li>Figuring out which environments tool is best for the packaging up Hoodie</li>
 		  <li>Asking mentors and coaches about our choices</li>
 		  <li>Getting to know and how to use most suitable environment tool (such as ‘Node-webkit’ etc)</li>
