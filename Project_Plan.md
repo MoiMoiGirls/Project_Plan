@@ -65,17 +65,17 @@ which can make interaction with users and finding the effective way to approach 
 					Testing our UI design and technical parts to get feedback (Upload our UI prototype 
 					in the Hoodie Github and show our project to mentors and coaches, other  users)</td></tr></table>  
  <table>
-    <td><tr> Step2: 1) Figuring out what environments tool we can use, considering node-webkit, atom-shell so on. </td></tr>
-                    2) Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.
-     <td><tr> * How to approach : 
+    <tr><td> Step2: 1) Figuring out what environments tool we can use, considering node-webkit, atom-shell so on. 
+                    2) Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</td></tr>
+     <tr><td> * How to approach : 
                   Figuring out which environments tool is best for the packaging up Hoodie -> 
 				  Asking mentors and coaches about our choice  -> Getting to know and 
 				  how to use most suitable environment tool (such as ‘Node-webkit’ etc)
 				  -> Packaging up Hoodie with Node-webkit </td></tr>
  </table>				  
  <table>
-    <td><tr> Step3:  Making the front-end part of Hoodie run with PouchDB Server instead of CouchDB.</td></tr>
-           <td><tr>* The sub-goal of step 3: Connecting the features of UI to Pouch DB to make Hoodie run with PouchDB
+    <tr><td> Step3:  Making the front-end part of Hoodie run with PouchDB Server instead of CouchDB.</td></tr>
+           <tr><td>* The sub-goal of step 3: Connecting the features of UI to Pouch DB to make Hoodie run with PouchDB
                    * How to approach : 
                       First, we will focus on connecting ‘creating new apps button (or link)’ to Pouch DB. 
                       After that, we will move on the connecting ‘managing existing apps button (or link)’ 
