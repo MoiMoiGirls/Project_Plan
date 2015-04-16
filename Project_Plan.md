@@ -1,6 +1,6 @@
 <h1>Hello, Welcome to our MoiMoiGirls GitHub Oranization.</h1>
-<p>We made this organization for sharing our ideas, building up Hoodie UI app 
-    and improving our projects with nice opinions and feedbacks from wonderful peoples. </p>
+<p> We are HyeSoo and Ly. We made this organization for sharing our ideas, building up Hoodie UI app 
+    and improving our projects with nice opinions and feedbacks from wonderful peoples. (+Plus Happy coding) </p>
 
 <h4>Now, we will introduce What is Hoodie, what is our project, our mentors and coaches and our project plans.</h4>
 
