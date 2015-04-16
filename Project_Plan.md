@@ -6,7 +6,7 @@
 
 
 <h1>Introduction of “Hoodie”</h1> 
-   <p> Hoodie is framework for frontend web applications that abstracts away the backend.  
+    Hoodie is framework for frontend web applications that abstracts away the backend.  
     Simply, Hoodie is a noBackend technology! 
 	
     Hoodie gives your frontend code superpowers or Dreamcode, 
@@ -14,7 +14,7 @@
     
     Hoodie’s vision and future goal is to be accessible for designers and
     people with few coding skills because Hoodie think this matters.
-    Hoodie is written entirely in JavaScript.</p>
+    Hoodie is written entirely in JavaScript.
 
 <h1>2. Mentors</h1>  
    <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt, Gregor </p>
@@ -53,8 +53,8 @@ which can make interaction with users and finding the effective way to approach 
              (Online courses from CodeAcademy, code school, Coursera(from coach Fernando)</td></tr>
 </table>
 
+<h3>"3 Steps"(From July to September)</h3>
 <table>
-   <tr><td><strong>"3 Steps"(From July to September)</strong></td></tr>
    <tr><td>Step1: Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation<br> 
 	          and allows to create new apps, manage, existing apps and eventually deploy a live app.</td></tr>
         <tr><td>The sub-goal of step 1: Designing an easy approachable and user friendly interface</td></tr>
@@ -67,13 +67,13 @@ which can make interaction with users and finding the effective way to approach 
 		       <li> Testing our UI design and technical parts to get feedback (Upload our UI prototype
 				    in the Hoodie Github and show our project to mentors and coaches, other  users)</li></ul></td></tr></table>  
  <table>
-    <tr><td> Step2: 1) Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.<br>
-                    2) Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</td></tr>
+    <tr><td> Step2: <ul><li> Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.</li>
+                    <li> Packaging up Hoodie with Node-webkit, so it can be launched from within the app with</li></ul> Node-webkit.</td></tr>
      <tr><td> * How to approach : <br>
-                  Figuring out which environments tool is best for the packaging up Hoodie -> <br>
-				  Asking mentors and coaches about our choice  -> Getting to know and <br>
-				  how to use most suitable environment tool (such as ‘Node-webkit’ etc)<br>
-				  -> Packaging up Hoodie with Node-webkit </td></tr>
+              <ol><li>Figuring out which environments tool is best for the packaging up Hoodie</li>
+		  <li>Asking mentors and coaches about our choices</li>
+		  <li>Getting to know and how to use most suitable environment tool (such as ‘Node-webkit’ etc)</li>
+	          <li>Packaging up Hoodie with Node-webkit</li></td></tr>
  </table>				  
  <table>
     <tr><td> Step3:  Making the front-end part of Hoodie run with PouchDB Server instead of CouchDB.</td></tr>
