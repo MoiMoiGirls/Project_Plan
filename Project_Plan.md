@@ -55,7 +55,7 @@ which can make interaction with users and finding the effective way to approach 
 
 <h3>"3 Steps"(From July to September)</h3>
 <table>
-   <tr><td><Step1> Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation<br> 
+   <tr><td> "Step1": Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation<br> 
 	          and allows to create new apps, manage, existing apps and eventually deploy a live app.</td></tr>
         <tr><td>The sub-goal of step 1: Designing an easy approachable and user friendly interface</td></tr>
         <tr><td><How to approach regarding our skills:</li></ul>
@@ -67,7 +67,7 @@ which can make interaction with users and finding the effective way to approach 
 		       <li> Testing our UI design and technical parts to get feedback (Upload our UI prototype
 				    in the Hoodie Github and show our project to mentors and coaches, other  users)</li></ul></td></tr></table>  
  <table>
-    <tr><td> <Step2><ul><li> Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.</li>
+    <tr><td>"Step2"<ul><li> Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.</li>
                     <li> Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</li></ul></td></tr>
      <tr><td> <How to approach> <br>
               <ol><li>Figuring out which environments tool is best for the packaging up Hoodie</li>
@@ -76,7 +76,7 @@ which can make interaction with users and finding the effective way to approach 
 	          <li>Packaging up Hoodie with Node-webkit</li></td></tr>
  </table>				  
  <table>
-    <tr><td> <Step3> Making the front-end part of Hoodie run with PouchDB Server instead of CouchDB.</td></tr>
+    <tr><td> "Step3" Making the front-end part of Hoodie run with PouchDB Server instead of CouchDB.</td></tr>
            <tr><td><ul><li> The sub-goal of step 3: Connecting the features of UI to Pouch DB to make Hoodie run with PouchDB</li>
                   <li> How to approach </li>
                       First, we will focus on connecting ‘creating new apps button (or link)’ to Pouch DB.<br>
