@@ -47,9 +47,9 @@ which can make interaction with users and finding the effective way to approach 
 <h1>7. Our project plan</h1>
 <table>
     <tr><td> <h3>Preparation (From mid-April to June) </h3></td></tr>
-	<tr><td> Learning more about user interface models and philosophy (Materials from coach Esko) </td></tr>
-    <tr><td> Learning hoodie with reading documents and using command lines.</td></tr>
-    <tr><td> Learning programming language concepts and Javascript and more about HTML,CSS<br>
+    <tr><td> 1)Learning more about user interface models and philosophy (Materials from coach Esko) </td></tr>
+    <tr><td> 2)Learning hoodie with reading documents and using command lines.</td></tr>
+    <tr><td> 3)Learning programming language concepts and Javascript and more about HTML,CSS<br>
              (Online courses from CodeAcademy, code school, Coursera(from coach Fernando)</td></tr>
 </table>
 
@@ -58,8 +58,8 @@ which can make interaction with users and finding the effective way to approach 
    <tr><td>Step1: Making a user interface prototype (using HTML/CSS/JS) that manages Hoodie installation<br> 
 	          and allows to create new apps, manage, existing apps and eventually deploy a live app.</td></tr>
         <tr><td>The sub-goal of step 1: Designing an easy approachable and user friendly interface</td></tr>
-        <tr><td><* How to approach regarding our skills:</li></ul>
-                   ** Our skills :  Photoshop, illustrator, HTML, CSS, (+Javascript after the preparation period) 
+        <tr><td><How to approach regarding our skills:</li></ul>
+                    <Our skills> :  Photoshop, illustrator, HTML, CSS, (+Javascript after the preparation period) 
                    <ol><li> Brainstorming our idea about UI</li> 
                        <li> Choosing our best ideas</li>
 		       <li> Focusing on designing the layout of UI</li>
@@ -69,7 +69,7 @@ which can make interaction with users and finding the effective way to approach 
  <table>
     <tr><td> Step2: <ul><li> Figuring out what environments tool we can use, considering node-webkit, atom-shell so on.</li>
                     <li> Packaging up Hoodie with Node-webkit, so it can be launched from within the app with Node-webkit.</li></ul></td></tr>
-     <tr><td> * How to approach : <br>
+     <tr><td> <How to approach> : <br>
               <ol><li>Figuring out which environments tool is best for the packaging up Hoodie</li>
 		  <li>Asking mentors and coaches about our choices</li>
 		  <li>Getting to know and how to use most suitable environment tool (such as ‘Node-webkit’ etc)</li>
