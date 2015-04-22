@@ -12,13 +12,13 @@ Simply, Hoodie is a no-Backend technology!:D </li>
 <li>Hoodie gives your frontend code superpowers or Dreamcode, 
 by allowing users to do things that ony a backend can do.</li>
 
-<li>Hoodie's vision and future goal is to be accessible for designers and 
+<li>Hoodie's vision and future goal are to be accessible for designers and 
 people with few coding skills because Hoodie think this matters.
 Hoodie is written entirely in JavaScript.</li>
 </ul>
 
 <h1>2. Mentors</h1>  
-   <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt, Gregor </p>
+   <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt<a href="https://twitter.com/janl" target="_blank">(@janl)</a>, Gregor<a href="https://twitter.com/gr2m">(@gr2m)</a></p>
 
 <h1>3. Coaches</h1> 
    <p><strong>*Coahes</strong> : Esko Luontola<a href="https://twitter.com/orfjackal" target="_blank">(@orfjackal)</a>, Tobias<a href="https://twitter.com/tobiasbuehlmann" target="_blank">(@tobiasbuehlmann)</a>, Fernando Arriaga <a href="https://twitter.com/afarriaga" target="_blank"> (@afarriaga)</a>
