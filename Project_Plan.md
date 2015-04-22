@@ -5,7 +5,7 @@
 <h4>Now, we will introduce What is Hoodie, what is our project, our mentors and coaches and our project plans.</h4>
 
 ###1.Introduction of Hoodie
-nice to meet u.
+nice to meet u. Hoodie is a framework.
 
 <h1>2. Mentors</h1>  
    <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt, Gregor </p>
