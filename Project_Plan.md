@@ -1,13 +1,13 @@
 <h1>Hello, Welcome to our MoiMoiGirls' Oranization.</h1>
-<p> We are HyeSoo and Ly:D <br>We made this organization for sharing our ideas, building up Hoodie UI app 
+<p> We are HyeSoo and Ly:D <br/>We made this organization for sharing our ideas, building up Hoodie UI app 
     and improving our projects with nice opinions and feedbacks from wonderful peoples. (+Plus Happy coding) </p>
 
 <h4>Now, we will introduce What is Hoodie, what is our project, our mentors and coaches and our project plans.</h4>
 
 
-<h1>1.Introduction of Hoodie</h1> 
+###1.Introduction of Hoodie
     Hoodie is framework for frontend web applications that abstracts away the backend.  
-    Simply, Hoodie is a noBackend technology!<br>
+    Simply, Hoodie is a noBackend technology!<br/>
     Hoodie gives your frontend code superpowers or Dreamcode, 
     by allowing users to do things that only a backend can do.<br>
     Hoodie’s vision and future goal is to be accessible for designers and
