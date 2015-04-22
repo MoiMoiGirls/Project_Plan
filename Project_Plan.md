@@ -6,8 +6,8 @@
 
 
 <h1>1.Introduction of “Hoodie”</h1> 
-    Hoodie is framework for frontend web applications that abstracts away the backend.  
-    Simply, Hoodie is a noBackend technology! 
+    <p>Hoodie is framework for frontend web applications that abstracts away the backend.  
+    Simply, Hoodie is a noBackend technology!</p>
 	
     Hoodie gives your frontend code superpowers or Dreamcode, 
     by allowing users to do things that only a backend can do.
@@ -17,10 +17,10 @@
     Hoodie is written entirely in JavaScript.
 
 <h1>2. Mentors</h1>  
-   <p>*Hoodie Mentors : Jan Lehnardt, Gregor </p>
+   <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt, Gregor </p>
 
 <h1>3. Coaches</h1> 
-   <p><strong>*Coahes</strong> : Esko Luontola, Tobias Bühlmann, Fernando Arriaga
+   <p><strong>*Coahes</strong> : Esko Luontola, Tobias Bühlmann, Fernando Arriaga (@afarriaga)
     So far we communicated with coaches by Twitter, email and Facebook.  
     To communicate with our coaches, we will create common group pages.</p>
  
