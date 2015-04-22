@@ -20,7 +20,7 @@
    <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt, Gregor </p>
 
 <h1>3. Coaches</h1> 
-   <p><strong>*Coahes</strong> : Esko Luontola, Tobias Bühlmann, Fernando Arriaga <a href="https://twitter.com/afarriaga"     target="_blank"> (@afarriaga)</a>
+   <p><strong>*Coahes</strong> : Esko Luontola<href="https://twitter.com/orfjackal" target="_blank">(@orfjackal)</a>, Tobias<href="https://twitter.com/tobiasbuehlmann" target="_blank">(@tobiasbuehlmann)</a>, Fernando Arriaga <a href="https://twitter.com/afarriaga" target="_blank"> (@afarriaga)</a>
     So far we communicated with coaches by Twitter, email and Facebook.  
     To communicate with our coaches, we will create common group pages.</p>
  
