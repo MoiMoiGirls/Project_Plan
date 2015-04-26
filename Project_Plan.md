@@ -18,7 +18,9 @@ Hoodie is written entirely in JavaScript.</li>
 </ul>
 
 <h1>2. Mentors</h1>  
-   <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt<a href="https://twitter.com/janl" target="_blank">(@janl)</a>, Gregor<a href="https://twitter.com/gr2m" target="_blank">(@gr2m)</a></p>
+   <p><strong>*Hoodie Mentors</strong> : Jan Lehnardt<a href="https://twitter.com/janl" target="_blank">(@janl)</a>, Gregor<a href="https://twitter.com/gr2m" target="_blank">(@gr2m)</a>
+   To communicate with our mentors, So far we used email and skype.
+   We think we can communicate with our mentors by email or skype etc.</p>
 
 <h1>3. Coaches</h1> 
    <p><strong>*Coahes</strong> : Esko Luontola<a href="https://twitter.com/orfjackal" target="_blank">(@orfjackal)</a>, Tobias<a href="https://twitter.com/tobiasbuehlmann" target="_blank">(@tobiasbuehlmann)</a>, Fernando Arriaga <a href="https://twitter.com/afarriaga" target="_blank"> (@afarriaga)</a>
